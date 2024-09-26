@@ -1,4 +1,4 @@
-<h2>Hey, I'm João Crepaldi!</h2>👋
+<h2>Hey, I'm João Crepaldi!👋</h2>
 
 <!--
 **JooCrepaldi/JooCrepaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
