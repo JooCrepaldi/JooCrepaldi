@@ -1,4 +1,4 @@
-<h2>Hey, I'm João Crepaldi!👋</h2>
+<h2>Hey, I'm João Crepaldi! 👋</h2>
 
 <h3>Systems developent student.</h3>
 
