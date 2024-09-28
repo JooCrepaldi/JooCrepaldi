@@ -1,6 +1,6 @@
 <h2>Hey, I'm João Crepaldi! 👋</h2>
 
-<h3>Systems developent student.</h3>
+<h3>Systems development student.</h3>
 
 <div style="display: flex flex-direction: row">
   <img align="center" alt="Crepas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
