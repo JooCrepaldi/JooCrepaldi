@@ -8,7 +8,7 @@
   <img align="center" alt="Crepas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   |
   <img align="center" alt="Crepas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg">
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" align="center" alt="Crepas-Java" height="30" width="40" />
 </div>
 
 ##
