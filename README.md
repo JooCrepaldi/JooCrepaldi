@@ -4,7 +4,7 @@
 
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=c,js,html,css,java,react,nodejs,postgres,prisma,express,git" />
+<img src="https://skillicons.dev/icons?i=c,js,html,css,java,react,nodejs,postgres,express,git" />
 
 ##
 
