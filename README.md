@@ -6,7 +6,6 @@ Systems Development student passionate about building AI-powered products throug
 
 ## Current Projects
 - 🪙 **[Denarius](https://github.com/atlasprojectt)** — AI-powered spending intelligence.
-- 🏀 **[OpenCourt](https://github.com/OpenCourtApp)** — Sports court booking platform.
 - 🪨 **[Oris](https://github.com/Oris-Habit-App)** — AI-powered habit building platform.
 
 ## Currently Learning
